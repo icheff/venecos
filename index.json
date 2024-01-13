@@ -22,13 +22,13 @@
   <div id="jgeGKUx" data-type="container">
     <div id="SNditis" data-type="backgrounds">
       
-      <div id="KPEJuZi" data-type="bg-color">
+      <div id="KPEJuZi" data-type="bg-color" class="div-hidden">
         <div id="qIXZLNJ" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 255);"></div>
         <div id="seKQfyu" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
         <div id="kzoScgo" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
       </div> <!-- bg-color -->
 
-      <div id="vqzpbkJ" data-type="bg-image">
+      <div id="vqzpbkJ" data-type="bg-image" class="div-hidden">
         <picture id="SQhTmFJ">
           <source srcset="" media="(max-width:640px)">
           <source srcset="" media="(min-width:641px) and (max-width:1024px)">
@@ -36,9 +36,9 @@
         </picture>
       </div> <!-- bg-image -->
 
-      <div id="VeYWTGm" data-type="bg-video">
+      <div id="VeYWTGm" data-type="bg-video" class="div-visible">
         <video id="oteUoAW" autoplay="" loop="" muted="">
-          <source src="https://previews.customer.envatousercontent.com/0e86408d-ad59-4c94-8e0d-8799ad96d063/watermarked_preview/watermarked_preview.mp4" type="video/mp4">
+          <source src="https://player.vimeo.com/external/363342919.sd.mp4?s=1f50f61b3d280bc060961feb1a48077c68d2e77e&amp;profile_id=165&amp;oauth2_token_id=57447761" type="video/mp4">
         </video>
       </div> <!-- bg-video -->
 
@@ -46,7 +46,7 @@
 
     <div id="psepvLu" data-type="content">
       <div id="YrXwtPz">
-        <h2 id="GdHExBV" contenteditable="true">Settings</h2>
+        <h2 id="GdHExBV" contenteditable="true">Cats</h2>
         <p id="pIUhpCp" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p>
         <div id="nzhbFUN">
           <a id="yHyPuxG" contenteditable="true" href="https://www">LOREM IPSUM</a>
